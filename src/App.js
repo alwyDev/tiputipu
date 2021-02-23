@@ -109,7 +109,7 @@ function App() {
             <center>
               <img
                 className="app__headerImage"
-                src="https://www.instagram.com/static/images/web/mobile_nav_type_logo.png/735145cfe0a4.png"
+                src="https://i.ibb.co/9VrFXx1/tiputipu.png"
                 alt=""
               />
             </center>
@@ -148,7 +148,7 @@ function App() {
             <center>
               <img
                 className="app__headerImage"
-                src="https://www.instagram.com/static/images/web/mobile_nav_type_logo.png/735145cfe0a4.png"
+                src="https://i.ibb.co/9VrFXx1/tiputipu.png"
                 alt=""
               />
             </center>
@@ -177,7 +177,7 @@ function App() {
       <div className="app__header">
         <img
           className="app__headerImage"
-          src="https://www.instagram.com/static/images/web/mobile_nav_type_logo.png/735145cfe0a4.png"
+          src="https://i.ibb.co/9VrFXx1/tiputipu.png"
           alt=""
         />
         {user ? (
