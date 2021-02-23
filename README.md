@@ -1,4 +1,5 @@
 This is a ReactJS web based on Instagram. Users can register, login, post the images with caption and give comments to the posts.
+Using Firebase for login authentication, stored data and deployment.
 
 notes:
 
